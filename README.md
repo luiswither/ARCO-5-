@@ -1,1 +1,1 @@
-# ARCO-5-
+# Plantilla del proyecto 26
